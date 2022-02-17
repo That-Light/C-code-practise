@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="选择语句.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="while循环.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="函数.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="指针.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="0~100奇数.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="if书写形式.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="while打印1~10.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="EOF.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="for循环.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="do_while循环.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="n的阶乘.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1~10阶乘的和.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="二分查找算法.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="双向打印.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="密码登录.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="review.c">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

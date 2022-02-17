@@ -1,0 +1,2 @@
+D:\virtual studio\test\C_Language_learn\x64\Debug\C_Language_learn.exe
+D:\virtual studio\C_Language_learn\2021-12-6\x64\Debug\2021-12-6.exe
