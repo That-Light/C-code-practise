@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "53300953-e2c4-49cc-99eb-ca3a38871331": {
+      "ProjectGuid": "53300953-e2c4-49cc-99eb-ca3a38871331",
+      "DisplayName": "对弈",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
