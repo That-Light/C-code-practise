@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c42e5e8f-b87f-41a7-96fc-9cf6c374d8ee": {
+      "ProjectGuid": "c42e5e8f-b87f-41a7-96fc-9cf6c374d8ee",
+      "DisplayName": "操作符",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "杂项文件",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
