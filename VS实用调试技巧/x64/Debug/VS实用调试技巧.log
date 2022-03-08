@@ -1,0 +1,2 @@
+﻿  test.c
+D:\virtual studio\C_Language_learn\VS实用调试技巧\test.c(10,2): error C2143: 语法错误: 缺少“;”(在“return”的前面)
