@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6fc28ecd-ed7d-4c52-a6f5-473b34b0026a": {
+      "ProjectGuid": "6fc28ecd-ed7d-4c52-a6f5-473b34b0026a",
+      "DisplayName": "220305复习扫雷",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
