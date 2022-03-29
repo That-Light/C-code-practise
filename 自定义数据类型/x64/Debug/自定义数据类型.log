@@ -1,0 +1,5 @@
+﻿  test.c
+D:\virtual studio\C_Language_learn\自定义数据类型\test.c(5,9): warning C4086: pragma 参数应为 "1"、"2"、"4"、"8" 或者 "16"
+D:\virtual studio\C_Language_learn\自定义数据类型\test.c(37,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\virtual studio\C_Language_learn\自定义数据类型\test.c(37,9): message : 请考虑在格式字符串中使用“%zd”
+  自定义数据类型.vcxproj -> D:\virtual studio\C_Language_learn\自定义数据类型\x64\Debug\自定义数据类型.exe
