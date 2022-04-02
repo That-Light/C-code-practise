@@ -1,0 +1,3 @@
+﻿  test.c
+D:\virtual studio\C_Language_learn\动态内存分配\test.c(10): warning C4172: 返回局部变量或临时变量的地址: p
+  动态内存分配.vcxproj -> D:\virtual studio\C_Language_learn\动态内存分配\Debug\动态内存分配.exe
